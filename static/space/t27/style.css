@@ -1,0 +1,15 @@
+/*
+[name]¶À×Ô³ª¸è[/name]
+
+*/
+
+body { background: #000000 url(images/body_bg.png) repeat 0 0; }
+a { color: #cccccc; }
+#hd { margin-top: 0px; width: 970px; height: 290px; border: none; background:  url(images/header.jpg) no-repeat 100% 0; }
+	#hd h2 { padding: 100px 0 0 100px; color: #FFF; font-size: 25px; line-height: 115%; }
+	
+#ct, .n, t.w { background: #FFF url(images/ct-top.png)  repeat 0 0 !important; }
+
+.block .title { border: none; background: url(images/title.png) repeat-x; 0 0; }
+
+body#space #ft { background: url(images/ct-bottom.png) no-repeat 0 0; }

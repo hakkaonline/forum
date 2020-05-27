@@ -1,0 +1,20 @@
+/*
+[name]学生时代[/name]
+*/
+
+body { background: #000 url(images/bg.png) repeat-x 0 30px; }
+
+#ct { color: #FFF; }
+#ct a { color: #8DBE00; }
+
+#hd { background: url(images/header.jpg) no-repeat 50% 100%; }
+	#hd h2 { color: #FFF; }
+#nv { bottom: auto; left: auto; top: 45px; right: 0; }
+	#nv li { padding: 0 13px; background: #FFF; }
+
+#ct, .n, .w { background: transparent none !important; }
+
+.block .title { padding: 0 10px; border-bottom: none; background: #301E10; }
+	.block .title, .block .title a { color: #FFF; }
+
+.bbda { border-bottom-color: #301E10; }

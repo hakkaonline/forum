@@ -1,0 +1,41 @@
+/*
+[name]香茶锦鲤[/name]
+[iconbgcolor]#f3ead8[/iconbgcolor]
+
+*/
+
+body { background: #f3ead8 url(bgimg.jpg) no-repeat 50% 0; }
+#nv { background-color: #a4c4d5; background-image: url(nv.png); }
+	#nv li { background-image: url(nv_a.png) !important; }
+	#nv li.a { background: #2d465e url(nv_a.png) no-repeat 50% 100%; }
+	#qmenu { background-image: url(qmenu.png); }
+
+.fl .bm_h { border-color: #c5dee6; background: #70a4c0 url(titlebg.png) repeat-x 0 0; }
+
+/* 重定义 {SPECIALBG} */
+.appl, .bmn, .bm_h, .pn, td.pls, .ad td.plc, div.exfm, .tb a, .tb_h, .ttp li.a a, div.uo a, input#addsubmit_btn, #gh .bm .bm_h { background-color: #EBF5F6; }
+
+/* 重定义 {SPECIALBORDER} */
+.bmn, .pg a, .pgb.a, .pg strong, .card, .card .o, div.exfm  { border-color: #c5d5e6; }
+.pg strong { background-color: #c5d5e6; }
+.pn { border-color: #c5d5e6 #666 #666 #c5d1e6; }
+
+
+
+.ad td.pls { background-color: #c5dee6; }
+
+/* 重定义字体 */
+.fl .bm_h h2 a, .xi1, #um .new, .topnav .new, .sch .new, .el .ec .hot em, .pll .s a.joins { color: #60899f; }
+.pll .s a.go { color: #FFF; }
+.xi2, .xi2 a { color: #000; }
+
+/* 重定义按钮 */
+.pgs #newspecial, .pgs #newspecialtmp { float: left; background: url(pn_post.png) no-repeat 0 0; }
+#post_reply, #post_replytmp { float: left; background: url(pn_reply.png) no-repeat 0 0; }
+	#newspecial img, #newspecialtmp img, #post_reply img, #post_replytmp img { opacity: 0; filter: alpha(opacity=0); }
+.moodfm_btn { background-image: url(mood_input_btn.png) !important; }
+#create_group_btn { display: block; background: url(create_group.png) no-repeat 0 0; }
+	#create_group_btn img { opacity: 0; filter: alpha(opacity=0); }
+.tb .o, .tb .o a { background-image: url(pnp2.png); }
+.el .ec .hot { background-image: url(hotspot.gif); }
+.pll .s { background-image:url(polljoins.gif); }

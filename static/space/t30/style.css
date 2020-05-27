@@ -1,0 +1,16 @@
+/*
+[name]Ê±ÉÐÅ®º¢[/name]
+Design by D_cOupe
+*/
+
+{ color:#fff;}
+body { background: #FBEFFB url(images/body_bg.jpg) no-repeat 50% 0%; }
+
+#hd { background: url(images/header.jpg) no-repeat 50% 100%; }
+	#hd h2,#domainurl,.title span,.area,.area a { color:#A16593;}
+
+
+.block .title { border: none; background: url(images/title.jpg) no-repeat; 0 0; border:1px solid #F0DFE2;line-height:26px; height:26px;}
+.content { background:#FFFEFE; border:1px solid #F0DFE2;}
+
+

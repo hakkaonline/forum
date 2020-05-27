@@ -1,0 +1,15 @@
+/*
+[name]Ä«Öñ[/name]
+
+*/
+
+body { background: #899A33 url(images/body_bg.png) repeat 0 0; }
+#hd { margin-top: 0px; width: 970px; height: 220px; border: none; background:  url(images/header.jpg) no-repeat 100% 0; }
+	#hd h2 { padding: 50px 0 0 50px; color: #FFF; font-size: 20px; line-height: 115%; }
+	
+
+#ct, .n, t.w {border: 1px solid #DDD; background: #FFF;)  repeat 0 0 !important; }
+
+.block .title { border:none; background: url(images/title.png) repeat-x; 0 0; }
+
+body#space #ft { background: url(images/ct-bottom.png) no-repeat 0 0; }

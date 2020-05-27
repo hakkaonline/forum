@@ -1,0 +1,16 @@
+/*
+[name]รฮปร[/name]
+Design by D_cOupe
+*/
+
+.title span,.area,.area a,#domainurl{ color:#fff;}
+body { background: #B40A27 url(images/body_bg.jpg) no-repeat; }
+
+#hd { background: url(images/header.jpg) no-repeat 50% 100%; }
+	#hd h2 { color: #fff; }
+
+
+.block .title { border: none; background: url(images/title.jpg) no-repeat; 0 0; }
+.content { background:#C44158;}
+
+

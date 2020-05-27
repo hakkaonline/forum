@@ -1,0 +1,17 @@
+/*
+[name]¹ú»­[/name]
+Design by D_cOupe
+*/
+
+body { background: #E6D1A4 url(images/background.jpg) repeat 0 0; }
+
+#hd {background: url(images/header.jpg) no-repeat; }
+	#hd h2 { color: #696255; }
+
+.block .title { border: none;  }
+#nv ul li{ background:none;}
+
+#nv ul li{ background:url(images/tabs-bg.gif) no-repeat;}
+#nv ul li a:hover{ color:#fff;}
+.title span{ color:#5E0000;}
+

@@ -1,0 +1,20 @@
+/*
+[name]ÂÌ´°[/name]
+Design by D_cOupe
+*/
+
+body { background: #FFF; }
+a { color: #000;}
+#hd { margin-top: 30px; width: 950px; height: 174px;  background: #FAFAFA  url(images/headerbg.jpg) no-repeat; }
+	#hd h2 { padding: 20px 0 0 30px; color: #000; font-size: 14px; line-height: 115%; }
+	#nv { bottom: 10px; }
+		#nv li { padding-right: 10px; background: none; opacity: 1; filter: alpha(opacity=100); font-size: 14px; }
+		#nv a, #nv a:visited { color: #000; }
+.block { border: 1px solid #DDD; background: #FFF; }
+	.block .title { border-bottom: 1px solid #DDD; background: #EAF1F2 url(images/modbglong.jpg) repeat-x 0 0; height:27px; }
+	.block .title span{ color:#467B2C;}
+#ft { border-top: 1px solid #CCC; _margin-top: 10px; }
+
+.mn { display: inline; margin-left: 10px; width: 760px !important; border: 1px solid #DDD; background: #FFF; }
+	.mt { margin: -10px -15px 10px; padding: 0 10px; height: 32px; border-bottom: 1px solid #DDD; background: #EAF1F2 url(images/title.png) repeat-x 0 0; line-height: 32px; font-size: 12px; }
+.sd { display: inline; margin-right: 10px; min-height: 0; border: 1px solid #DDD; background: #FFF; }
